@@ -1,3 +1,27 @@
 .checked {
   text-decoration: line-through;
 }
+ul li {
+  list-style: none;
+}
+li {
+  padding: 0.4rem;
+}
+li input {
+  vertical-align: middle;
+}
+button {
+  margin: 0.5rem;
+  border: unset;
+  background-color: blue;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.5rem;
+}
+li button {
+  background-color: white;
+}
+button i {
+  background-color: white;
+  color: red;
+}
